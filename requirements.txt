@@ -1,2 +1,14 @@
+# Core app dependencies
 streamlit
+pandas
 plotly
+
+# LLM & AI dependencies
+langchain
+langchain-google-genai
+
+# For environment variable loading
+python-dotenv
+
+# Optional but recommended (sometimes Streamlit Cloud needs this)
+openai
